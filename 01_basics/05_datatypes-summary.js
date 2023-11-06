@@ -1,3 +1,5 @@
+// https://262.ecma-international.org/5.1/#sec-11.4.3
+
 // Primitive 
 // 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
 
@@ -45,3 +47,13 @@ console.log(typeof userEmaill);
 // Array => object
 // oject => object
 // function => funtion object / object function
+
+
+// *****************************************
+
+let name = "sam"
+let othername = "shri"
+
+console.log 
+
+
