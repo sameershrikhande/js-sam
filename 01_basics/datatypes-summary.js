@@ -33,11 +33,11 @@ let myObj = {
 }
 
 const myFunction = function(){
-    console.log("HelloWOrld");
+    // console.log("HelloWOrld");
 }
 
 console.log(typeof outsideTemp);
-console.log(typeof userEmaill);
+// console.log(typeof userEmaill);
 
 
 // null => undefined
@@ -51,9 +51,19 @@ console.log(typeof userEmaill);
 
 // *****************************************
 
+// Memory- Stack (Primitive)   Heap (Non Primitive)
+
 let name = "sam"
 let othername = "shri"
 
-console.log 
+let userOne = {
+    email: "sam@gmail.com",
+    upi: "sam@axisb"
+} 
 
+let userTwo = userOne
 
+userTwo.email = "sam@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
