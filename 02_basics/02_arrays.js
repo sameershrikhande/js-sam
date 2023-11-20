@@ -25,12 +25,13 @@ const real_another_array = another_array.flat(Infinity)
 
 // console.log(Array.isArray("sam"))            // isArray
 // console.log(Array.from("sam"))               // fromArray
+// console.log(Array.from("sam", "shri"))       // NO // fromArray
 
 // console.log(Array.from({name: "sam"}))      // Intresting Obj->Array, need to specify keys or value
 
-let score1 = 100
-let score2 = 200
-let score3 = 300
+// let score1 = 100
+// let score2 = 200
+// let score3 = 300
 
-console.log(Array.of(score1, score2, score3))   // ofArray
-console.log(Array.of(score1, score2, score3))   // ofArray
+// console.log(Array.of(score1, score2, score3))   // ofArray
+// console.log(Array.of(score1, score2, score3))   // ofArray
