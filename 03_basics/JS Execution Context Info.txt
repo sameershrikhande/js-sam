@@ -1,0 +1,32 @@
+Js Execution Context
+
+- Global Execution Context
+- Function Execution Context
+- Eval Execution Context
+
+
+Execution-
+1. Memory Creation Phase / Creation Phase
+2. Execution Phase
+
+
+
+*** Execution of Js Code *** 
+{
+    1. Global Execution -> this
+
+    2. Memory Phase
+    3. Execution Phase
+
+    New Virtual Environment (sandbox) for each functions{
+        - Single Thread -
+        1. Memory Phase
+        2. Execution Phase
+        3. return to Global Execution Context
+        -- NVE Deleted --
+    }
+}
+
+
+Call Stack 
+
