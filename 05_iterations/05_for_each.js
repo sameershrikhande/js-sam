@@ -1,5 +1,8 @@
 // FOR EACH
 
+// const myArray = [1, 6, 5, 8, 10]
+// myArray.forEach()
+
 const coding = ["js", "python", "java", "cpp"]
 
 // coding.forEach( function (item) {

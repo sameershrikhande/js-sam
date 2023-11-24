@@ -48,8 +48,7 @@ const user = {
 // Implicit Return : Dosent require return to be mention explicitly ()  // maan liya 
 // const addTwo = (num1, num2) => num1 + num2
 // const addTwo = (num1, num2) => (num1 + num2)
-const addTwo = (num1, num2) => ({username: "sameer"})
+// const addTwo = (num1, num2) => {return num1 + num2}      // not good, for arrow fun
+// const addTwo = (num1, num2) => ({username: "sameer"})
 console.log(addTwo(2, 6))
 
-// const myArray = [1, 6, 5, 8, 10]
-// myArray.forEach()
