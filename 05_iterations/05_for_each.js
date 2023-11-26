@@ -6,7 +6,7 @@
 const coding = ["js", "python", "java", "cpp"]
 
 // coding.forEach( function (item) {
-//     console.log(typeofitem);
+//     console.log(item);
 // } )
 
 // coding.forEach( (val) => {
@@ -38,5 +38,5 @@ const myCoding = [
 ]
 
 myCoding.forEach( (item) => {
-    console.log(item.languageName);
+    // console.log(item.languageName);
 } )
