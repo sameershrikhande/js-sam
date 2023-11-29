@@ -2,7 +2,7 @@
 
 ## Project Link
 
-[Click here](www.google.com)
+[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode-fta8jm?file=index.html)
 
 # Solution Code
 
@@ -178,5 +178,5 @@ function newGame() {
     playgame = true;
   });
 }
-
+ 
 ```
